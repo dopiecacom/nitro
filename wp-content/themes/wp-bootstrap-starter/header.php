@@ -17,6 +17,20 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="profile" href="http://gmpg.org/xfn/11">
 <?php wp_head(); ?>
+
+
+
+	 <script src="http://suple.dopieca.com/wp-content/themes/wp-bootstrap-starter/assets/owl/owl.carousel.js" type="text/javascript"></script>
+	 <link rel="stylesheet" id="wp-bootstrap-starter-bootstrap-css-css" href="http://suple.dopieca.com/wp-content/themes/wp-bootstrap-starter/assets/owl/assets/owl.carousel.css" type="text/css" media="all">
+<link rel="stylesheet" id="wp-bootstrap-starter-bootstrap-css-css" href="http://suple.dopieca.com/wp-content/themes/wp-bootstrap-starter/assets/owl/assets/owl.theme.default.css" type="text/css" media="all">
+
+
+
+
+
+
+
+
 </head>
 
 <body <?php body_class(); ?>>
@@ -86,3 +100,11 @@
 		<div class="container">
 			<div class="row">
                 <?php endif; ?>
+				
+				
+				
+				
+
+
+
+				
