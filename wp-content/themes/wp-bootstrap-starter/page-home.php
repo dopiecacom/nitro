@@ -8,10 +8,7 @@ get_header(); ?>
 
 
 <script>
-		
 	jQuery(document).ready(function(){
-		
-		
 		jQuery('.owl-carousel').owlCarousel({
 			loop:true,
 			items:1,
@@ -20,17 +17,8 @@ get_header(); ?>
 				dots:true,
     autoplayTimeout:5000,
     autoplayHoverPause:true
-	
-
-			
 		})
-		
-		
-		
 	});
-	
-
-	
 </script>
 
 
@@ -58,15 +46,15 @@ get_header(); ?>
 <h2>Suplement Nitro. Wyciąg z Yerba Mate, Ashwaghandy I Różeńca Górskiego o wysokim Stężeniu, ponad 400 mg na kapsułkę. Mniejszy niepokój i poziom kortyzolu w ciągu dnia. Wyższy poziom energii.
 Suplement powstał z myślą o osobach narażonych na działanie stresu związanego z wymagającą pracą fizyczną jak i umysłową. Szczególnie jego właściwości docenią</h2>
 
-<p>Kierowcy w długich trasach,</p>
+<h3>Kierowcy w długich trasach</h3>
 
-<p>Osoby Trenujące na siłowni</p>
+<h3>Osoby Trenujące na siłowni</h3>
 
-<p>Osoby narażone na działanie stresu</p>
+<h3>Osoby narażone na działanie stresu</h3>
 
-<p>Uczniowie i Studenci w czasie nauki</p>
+<h3>Uczniowie i Studenci w czasie nauki</h3>
 
-<p>Osoby Pracujące Fizycznie i umysłowo przez długie godziny w ciągu dnia</p>
+<h3>Osoby Pracujące Fizycznie i umysłowo przez długie godziny w ciągu dnia</h3>
 
 <p>Zestawienie składników Yerba Mate z Ashwaghandą daje świetne połączenie zwiększając poziom energii i koncentracji do pracy a jednocześnie nie wywołując niepożądanych efektów ubocznych.</p>
 
@@ -80,7 +68,7 @@ Suplement powstał z myślą o osobach narażonych na działanie stresu związan
 <div class="row">
 <div class="col-lg-12 d-flex justify-content-center">
 <a href="/product/nitro/">
-<button class="button">DOWIEDZ SIĘ WIĘCEJ</button>
+<button class="button">KUP TERAZ</button>
 </a>
 </div>
 </div>
@@ -111,11 +99,11 @@ Suplement powstał z myślą o osobach narażonych na działanie stresu związan
 
 <p>Pora przyjmownia nie ma większego znaczenia, jednak zauważono że o wiele lepsze efekty są odczuwalne rano od razu przed pierwszym posiłkiem lub w momentach przemęcznia w ciągu dnia. </p>
 
-<h3>Przerwy w Suplementacji; </h3>
+<h3>Przerwy w Suplementacji: </h3>
 
 <p>Dłuższe stosowanie nie niesie ze sobą skutków ubocznych jednak warto po 6 maksymalnie 8 tygodniach zrobić sobie przerwę na 3 do 4 tygodni co napewno nie zaszkodzi. </p>
 
-<h3>Pierwsze Efekty; </h3>
+<h3>Pierwsze Efekty: </h3>
 
 <p>Pierwsze efekty zazwyczaj są odczuwalne po około 3 tygodniach kuracji. Osoby które stosują suplement mówią że poprawił się ich poziom energii w ciągu dnia, lepiej się wysypiąją i są bardziej produktywni w ciągu dnia.  </p>
 
@@ -133,17 +121,25 @@ Suplement powstał z myślą o osobach narażonych na działanie stresu związan
 
 
 <div class="container">
+<div class="sklad">
 <div class="row">
-<div class="col-lg-6">
+<div class="col-lg-12 d-flex justify-content-center">
 <h2>Yerba Mate. (Ostrokrzew Paragwajski)</h2>
+</div>
+</div>
+<div class="row">
+
+<div class="col-lg-6">
+
 <p>Poprawia koncentrację, uwagę i skupienie, a poza tym dodaje energii. Oprócz kofeiny, yerba mate zawiera dwa pokrewne związki – teobrominę i teofilinę. Te trzy substancje działają razem, aby zapewnić wyjątkowe, łagodne działanie pobudzające.</p>
 
 <p>Yerba mate jest wyjątkowo bogata w składniki odżywcze. Znajdziemy w niej witaminę A, witaminy B1, B2, B3 i B5, witaminę C i E oraz wapń, żelazo, magnez, mangan, fosfor, potas, selen, sód, siarkę i cynk.
 Yerba mate zawiera polifenole i wykazuje większą moc antyoksydacyjną niż jakikolwiek inny napój na bazie herbaty. Ponieważ w yerba zawiera przeciwutleniacze, może skutecznie wspomagać układ odpornościowy, a co za tym idzie – redukować stany zapalne, zapobiegać chorobom i infekcjom.</p>
 </div>
 <div class="col-lg-6">
-<img id="nitro" src="wp-content/uploads/img/matt-3565340_1920-600x397.jpg">
+<img src="wp-content/uploads/img/matt-3565340_1920-600x397.jpg">
 
+</div>
 </div>
 </div>
 </div>
@@ -153,23 +149,23 @@ Yerba mate zawiera polifenole i wykazuje większą moc antyoksydacyjną niż jak
 
 
 <div class="container">
+<div class="sklad">
 <div class="row">
-<div class="col-lg-6">
-<img id="nitro" src="wp-content/uploads/img/ashwagandha-zen-szen-indyjski-ekstrakt-z-ashwagandhy-withania-somnifera-l.jpg">
-</div>
-<div class="col-lg-6">
+<div class="col-lg-12 d-flex justify-content-center">
 <h2>Ashwaghanda (Witania Ospała)</h2>
+</div>
+</div>
+<div class="row">
+
+<div class="col-lg-6">
+<img src="wp-content/uploads/img/ashwagandha-zen-szen-indyjski-ekstrakt-z-ashwagandhy-withania-somnifera-l.jpg">
+</div>
+<div class="col-lg-6">
+
 <p>Z wielu przeprowadzonych badań wynika że Ashwaghanda ma działanie antydepresyjne i jest przybliżone do działania imipraniny(leku na depresje). Może pomóc osobom zmagającym się z depresją. Jej stosowanie może przynieść pozytywne rezultaty także osobom, które zmagają się z innymi chorobami psychicznymi. Ashwagandha działa tonizująco, rozluźniająco oraz pozytywnie wpływa na sen, jednak nie powodując senności.</p>
-
-<p>Dodatkowe korzyści;<br>
-
-Wzmacnia Układ Odpornościowy<br>
-
-Zmniejsza Poziom Cukru We Krwi<br>
-
-Ma Działanie Przeciwzapalne</p>
 </div>
 
+</div>
 </div>
 </div>
 
@@ -179,14 +175,21 @@ Ma Działanie Przeciwzapalne</p>
 
 
 <div class="container">
+<div class="sklad">
+<div class="row">
+<div class="col-lg-12 d-flex justify-content-center">
+<h2>Różeniec Górski. (Złoty Korzeń)</h2>
+</div>
+</div>
 <div class="row">
 <div class="col-lg-6">
-<h2>Różeniec Górski. (Złoty Korzeń)</h2>
-<p>Różeniec Górski wpływa pozytywnie na działanie układu Nerwowego. Co sprawia że zmniejsza się napięcie w ciele. Substance aktywne w Różeńcu wspomagają pracę mózgu. Poprawiają koncentrację i zdolność uczenia się. Różeniec Górski ma też ogólny, wzmacniający wpływ na stan psychofizyczny człowieka, dlatego podczas okresów przemęczenia, nadmiernego wysiłku stosowanie Różenca jest wskazane. Jego właściwości docenią także sportowcy, bowiem Korzeń ten poprawia ogólną wydolność organizmu i poprawia regenerację po intensywnym wysiłku fizycznym.</p>
+<p>Różeniec Górski wpływa pozytywnie na działanie układu Nerwowego. Co sprawia że zmniejsza się napięcie w ciele. Substance aktywne w Różeńcu wspomagają pracę mózgu. Poprawiają koncentrację i zdolność uczenia się. </p>
+<p>Różeniec Górski ma też ogólny, wzmacniający wpływ na stan psychofizyczny człowieka, dlatego podczas okresów przemęczenia, nadmiernego wysiłku stosowanie Różenca jest wskazane. Jego właściwości docenią także sportowcy, bowiem Korzeń ten poprawia ogólną wydolność organizmu i poprawia regenerację po intensywnym wysiłku fizycznym.</p>
 </div>
 <div class="col-lg-6">
-<img id="nitro" src="wp-content/uploads/img/rozeniec-gorski-arktyczny-korzen.jpg">
+<img src="wp-content/uploads/img/rozeniec-gorski-arktyczny-korzen.jpg">
 
+</div>
 </div>
 </div>
 </div>
@@ -209,6 +212,7 @@ Ma Działanie Przeciwzapalne</p>
 
 
 <div class="container">
+<div class="kafle">
 <div class="row">
 <div class="col-lg-6">
 <p>Różeniec Górski wpływa pozytywnie na działanie układu Nerwowego. Co sprawia że zmniejsza się napięcie w ciele. Substance aktywne w Różeńcu wspomagają pracę mózgu. Poprawiają koncentrację i zdolność uczenia się. Różeniec Górski ma też ogólny, wzmacniający wpływ na stan psychofizyczny człowieka, dlatego podczas okresów przemęczenia, nadmiernego wysiłku stosowanie Różenca jest wskazane. Jego właściwości docenią także sportowcy, bowiem Korzeń ten poprawia ogólną wydolność organizmu i poprawia regenerację po intensywnym wysiłku fizycznym.</p>
@@ -220,8 +224,10 @@ Ma Działanie Przeciwzapalne</p>
 </div>
 </div>
 </div>
+</div>
 
 <div class="container">
+<div class="kafle">
 <div class="row">
 <div class="col-lg-6">
 <img class="text-photo" src="wp-content/uploads/img/2.png">
@@ -232,8 +238,10 @@ Ma Działanie Przeciwzapalne</p>
 </div>
 </div>
 </div>
+</div>
 
 <div class="container">
+<div class="kafle">
 <div class="row">
 <div class="col-lg-6">
 <p>Różeniec Górski wpływa pozytywnie na działanie układu Nerwowego. Co sprawia że zmniejsza się napięcie w ciele. Substance aktywne w Różeńcu wspomagają pracę mózgu. Poprawiają koncentrację i zdolność uczenia się. Różeniec Górski ma też ogólny, wzmacniający wpływ na stan psychofizyczny człowieka, dlatego podczas okresów przemęczenia, nadmiernego wysiłku stosowanie Różenca jest wskazane. Jego właściwości docenią także sportowcy, bowiem Korzeń ten poprawia ogólną wydolność organizmu i poprawia regenerację po intensywnym wysiłku fizycznym.</p>
@@ -244,8 +252,10 @@ Ma Działanie Przeciwzapalne</p>
 </div>
 </div>
 </div>
+</div>
 
 <div class="container">
+<div class="kafle">
 <div class="row">
 <div class="col-lg-6">
 <img class="text-photo" src="wp-content/uploads/img/4.png">
@@ -256,8 +266,10 @@ Ma Działanie Przeciwzapalne</p>
 </div>
 </div>
 </div>
+</div>
 
 <div class="container">
+<div class="kafle">
 <div class="row">
 <div class="col-lg-6">
 <p>Różeniec Górski wpływa pozytywnie na działanie układu Nerwowego. Co sprawia że zmniejsza się napięcie w ciele. Substance aktywne w Różeńcu wspomagają pracę mózgu. Poprawiają koncentrację i zdolność uczenia się. Różeniec Górski ma też ogólny, wzmacniający wpływ na stan psychofizyczny człowieka, dlatego podczas okresów przemęczenia, nadmiernego wysiłku stosowanie Różenca jest wskazane. Jego właściwości docenią także sportowcy, bowiem Korzeń ten poprawia ogólną wydolność organizmu i poprawia regenerację po intensywnym wysiłku fizycznym.</p>
@@ -268,8 +280,10 @@ Ma Działanie Przeciwzapalne</p>
 </div>
 </div>
 </div>
+</div>
 
 <div class="container">
+<div class="kafle">
 <div class="row">
 <div class="col-lg-6">
 <img class="text-photo" src="wp-content/uploads/img/6.png">
@@ -280,8 +294,10 @@ Ma Działanie Przeciwzapalne</p>
 </div>
 </div>
 </div>
+</div>
 
 <div class="container">
+<div class="kafle">
 <div class="row">
 <div class="col-lg-6">
 <p>Różeniec Górski wpływa pozytywnie na działanie układu Nerwowego. Co sprawia że zmniejsza się napięcie w ciele. Substance aktywne w Różeńcu wspomagają pracę mózgu. Poprawiają koncentrację i zdolność uczenia się. Różeniec Górski ma też ogólny, wzmacniający wpływ na stan psychofizyczny człowieka, dlatego podczas okresów przemęczenia, nadmiernego wysiłku stosowanie Różenca jest wskazane. Jego właściwości docenią także sportowcy, bowiem Korzeń ten poprawia ogólną wydolność organizmu i poprawia regenerację po intensywnym wysiłku fizycznym.</p>
@@ -292,8 +308,10 @@ Ma Działanie Przeciwzapalne</p>
 </div>
 </div>
 </div>
+</div>
 
 <div class="container">
+<div class="kafle">
 <div class="row">
 <div class="col-lg-6">
 <img class="text-photo" src="wp-content/uploads/img/8.png">
@@ -304,8 +322,10 @@ Ma Działanie Przeciwzapalne</p>
 </div>
 </div>
 </div>
+</div>
 
 <div class="container">
+<div class="kafle">
 <div class="row">
 <div class="col-lg-6">
 <p>Różeniec Górski wpływa pozytywnie na działanie układu Nerwowego. Co sprawia że zmniejsza się napięcie w ciele. Substance aktywne w Różeńcu wspomagają pracę mózgu. Poprawiają koncentrację i zdolność uczenia się. Różeniec Górski ma też ogólny, wzmacniający wpływ na stan psychofizyczny człowieka, dlatego podczas okresów przemęczenia, nadmiernego wysiłku stosowanie Różenca jest wskazane. Jego właściwości docenią także sportowcy, bowiem Korzeń ten poprawia ogólną wydolność organizmu i poprawia regenerację po intensywnym wysiłku fizycznym.</p>
@@ -316,8 +336,10 @@ Ma Działanie Przeciwzapalne</p>
 </div>
 </div>
 </div>
+</div>
 
 <div class="container">
+<div class="kafle">
 <div class="row">
 <div class="col-lg-6">
 <img class="text-photo" src="wp-content/uploads/img/10.png">
@@ -325,6 +347,7 @@ Ma Działanie Przeciwzapalne</p>
 <div class="col-lg-6">
 <p>Różeniec Górski wpływa pozytywnie na działanie układu Nerwowego. Co sprawia że zmniejsza się napięcie w ciele. Substance aktywne w Różeńcu wspomagają pracę mózgu. Poprawiają koncentrację i zdolność uczenia się. Różeniec Górski ma też ogólny, wzmacniający wpływ na stan psychofizyczny człowieka, dlatego podczas okresów przemęczenia, nadmiernego wysiłku stosowanie Różenca jest wskazane. Jego właściwości docenią także sportowcy, bowiem Korzeń ten poprawia ogólną wydolność organizmu i poprawia regenerację po intensywnym wysiłku fizycznym.</p>
 <p>Z wielu przeprowadzonych badań wynika że Ashwaghanda ma działanie antydepresyjne i jest przybliżone do działania imipraniny(leku na depresje). Może pomóc osobom zmagającym się z depresją. Jej stosowanie może przynieść pozytywne rezultaty także osobom, które zmagają się z innymi chorobami psychicznymi. Ashwagandha działa tonizująco, rozluźniająco oraz pozytywnie wpływa na sen, jednak nie powodując senności.</p>
+</div>
 </div>
 </div>
 </div>

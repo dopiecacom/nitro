@@ -1100,6 +1100,52 @@ body:not(.theme-preset-active) #masthead .navbar-nav > li > a {
 	
 }
 
+#menu-menu li{
+	margin-right: 25px;
+}
+
+#menu-menu{
+	    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-family: verdana;
+}
+
+.sklad{
+	margin-top:50px;
+	margin-bottom:50px;
+	
+}
+
+body {
+  background-image: url("../../uploads/img/bg.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  
+}
+
+img#nitro{
+    margin-top: 80px;
+    margin-bottom: 40px;
+}
+
+p {
+	text-align:justify;
+	
+}
+
+.kafle {
+	padding-top:50px;
+	padding-bottom:50px;
+}
+
+.kafle p {
+	margin-top:45px;
+}
+
+.sklad p{
+	margin-top:25px;
+}
 
 
 
